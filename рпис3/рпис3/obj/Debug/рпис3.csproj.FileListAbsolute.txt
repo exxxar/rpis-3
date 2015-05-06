@@ -1,0 +1,27 @@
+c:\users\елизавета\documents\visual studio 2013\Projects\рпис3\рпис3\bin\Debug\рпис3.exe.config
+c:\users\елизавета\documents\visual studio 2013\Projects\рпис3\рпис3\bin\Debug\рпис3.exe
+c:\users\елизавета\documents\visual studio 2013\Projects\рпис3\рпис3\bin\Debug\рпис3.pdb
+c:\users\елизавета\documents\visual studio 2013\Projects\рпис3\рпис3\obj\Debug\рпис3.csprojResolveAssemblyReference.cache
+c:\users\елизавета\documents\visual studio 2013\Projects\рпис3\рпис3\obj\Debug\рпис3.Form1.resources
+c:\users\елизавета\documents\visual studio 2013\Projects\рпис3\рпис3\obj\Debug\рпис3.Properties.Resources.resources
+c:\users\елизавета\documents\visual studio 2013\Projects\рпис3\рпис3\obj\Debug\рпис3.csproj.GenerateResource.Cache
+c:\users\елизавета\documents\visual studio 2013\Projects\рпис3\рпис3\obj\Debug\рпис3.exe
+c:\users\елизавета\documents\visual studio 2013\Projects\рпис3\рпис3\obj\Debug\рпис3.pdb
+C:\Users\Aleks\Desktop\elizabet\рпис3\рпис3\bin\Debug\рпис3.exe.config
+C:\Users\Aleks\Desktop\elizabet\рпис3\рпис3\obj\Debug\рпис3.exe
+C:\Users\Aleks\Desktop\elizabet\рпис3\рпис3\obj\Debug\рпис3.pdb
+C:\Users\Aleks\Desktop\elizabet\рпис3\рпис3\bin\Debug\рпис3.exe
+C:\Users\Aleks\Desktop\elizabet\рпис3\рпис3\bin\Debug\рпис3.pdb
+C:\Users\Aleks\Desktop\elizabet\рпис3\рпис3\obj\Debug\рпис3.csprojResolveAssemblyReference.cache
+C:\Users\Aleks\Desktop\elizabet\рпис3\рпис3\obj\Debug\рпис3.Form1.resources
+C:\Users\Aleks\Desktop\elizabet\рпис3\рпис3\obj\Debug\рпис3.Properties.Resources.resources
+C:\Users\Aleks\Desktop\elizabet\рпис3\рпис3\obj\Debug\рпис3.csproj.GenerateResource.Cache
+D:\Курсач_Repo\trunk\рпис3\рпис3\bin\Debug\рпис3.exe.config
+D:\Курсач_Repo\trunk\рпис3\рпис3\obj\Debug\рпис3.exe
+D:\Курсач_Repo\trunk\рпис3\рпис3\obj\Debug\рпис3.pdb
+D:\Курсач_Repo\trunk\рпис3\рпис3\bin\Debug\рпис3.exe
+D:\Курсач_Repo\trunk\рпис3\рпис3\bin\Debug\рпис3.pdb
+D:\Курсач_Repo\trunk\рпис3\рпис3\obj\Debug\рпис3.csprojResolveAssemblyReference.cache
+D:\Курсач_Repo\trunk\рпис3\рпис3\obj\Debug\рпис3.Form1.resources
+D:\Курсач_Repo\trunk\рпис3\рпис3\obj\Debug\рпис3.Properties.Resources.resources
+D:\Курсач_Repo\trunk\рпис3\рпис3\obj\Debug\рпис3.csproj.GenerateResource.Cache
